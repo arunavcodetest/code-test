@@ -1,0 +1,23 @@
+{
+  "name": "mqtt-node-demo",
+  "version": "1.0.0",
+  "description": "This git repository should be used to manage source code of node-mqtt-demo project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/dccpl/ltts/tests/node-mqtt-demo.git"
+  },
+  "author": "DCCPL",
+  "license": "",
+  "bugs": {
+    "url": "https://gitlab.com/dccpl/ltts/tests/node-mqtt-demo/issues"
+  },
+  "homepage": "https://gitlab.com/for-ltts-eyes/node-mqtt-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mqtt": "^4.2.6"
+  }
+}

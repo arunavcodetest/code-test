@@ -1,0 +1,29 @@
+{
+  "name": "openweather-api-wrapper",
+  "version": "0.0.1",
+  "description": "A test solution from DCCPL team member, given by LTTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "openweather",
+    "openweathermap",
+    "meteo",
+    "weather",
+    "weather-api",
+    "apis"
+  ],
+  "author": {
+    "name": "DCCPL Team Member",
+    "url": "https://gitlab.com/dccpl/ltts/tests/"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/dccpl/ltts/tests/openweathermap-api-wrapper/issues"
+  },
+  "homepage": "https://gitlab.com/dccpl/ltts/tests/openweathermap-api-wrapper",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
